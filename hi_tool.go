@@ -1,6 +1,6 @@
 package cool
 
-func say_hi() {
+func Sayhi() {
 	fmt.Println("Hi")
 	fmt.Println("Hi")
 	fmt.Println("Hi")
